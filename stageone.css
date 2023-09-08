@@ -18,3 +18,7 @@ flex-direction: column;
 .container img{
     border-radius: 90px;
 }
+.github_link{
+    color: black;
+    font-size: large;
+}
