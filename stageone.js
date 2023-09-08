@@ -13,8 +13,7 @@ const minutes = now.getUTCMinutes();
 const seconds = now.getUTCSeconds();
 const milliseconds = now.getUTCMilliseconds();
 
-/* console.log(`${year}-${month}-${dayy} 
-            ${hours}:${minutes}:${seconds}.${milliseconds}`); */
+
 
             let time=(`${hours}:${minutes}:${seconds}.${milliseconds}`);
 
